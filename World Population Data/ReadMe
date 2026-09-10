@@ -1,0 +1,26 @@
+-- SQL ASSIGNMENT 1 : Work with WORLD DB (sample DB in MYSQL)
+-- 1. Display the Name, Continent, and Population of all countries located in Asia.
+-- 2. Display the Name, Population, and LifeExpectancy of all countries.
+--    Sort the results by Population in descending order.
+-- 3. Display the Name, Continent, and Population of countries that:
+--    belong to Europe, AND have a population greater than 20,000,000.
+--    Sort the results alphabetically by country name.
+-- 4. Display the Name, Region, and SurfaceArea of countries that are located in either:
+--    North America, OR South America. Sort the results by region.
+-- 5. Display the Name, Continent, and Population of all countries that are NOT located in Africa.
+--    Sort the results by country name.
+
+-- 6. Display the Name, Population, and GovernmentForm of countries whose population is between 10,000,000 and 50,000,000.
+--    Sort the results by population.
+-- 7. Display the Name, Capital, and Population of countries whose continent is one of the following: Asia, Europe, Oceania
+-- 8. Display the Name, Region, and Population of countries whose names start with the letter 'A'.
+--    Sort the results alphabetically.
+-- 9. Display the Name, Continent, Population, and LifeExpectancy of countries that:
+--    are in Asia OR Europe,
+--    have a population greater than 50,000,000, AND
+--    have a life expectancy greater than 70.
+--    Sort the results by population in descending order.
+-- 10. Display the Name, Continent, Population, and GovernmentForm of countries that:
+--     are NOT in Africa, have a population between 5,000,000 and 30,000,000,
+--     and whose names contain the letter 'land'.
+--     Sort the results alphabetically.
