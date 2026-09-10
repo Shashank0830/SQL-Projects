@@ -1,0 +1,12 @@
+. Query-Based Questions
+a. Retrieve all student details along with their department names.
+b. Find the names of all students who are enrolled in 'Artificial Intelligence'.
+c. Count how many students are in each department.
+d. List the courses taken by 'Alice Johnson'. (assuming Alice Johnson is a student)
+e. Find students who are enrolled in more than one course.
+f. Get the average age of students in each department.
+g. Find the department with the most students.
+h. List all students who are NOT enrolled in any course.
+i. Retrieve students along with the total number of courses they are enrolled in.
+j. Find students who belong to 'Computer Science' and are taking a course with 'Data' in its name.
+
